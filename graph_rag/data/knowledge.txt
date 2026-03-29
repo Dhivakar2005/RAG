@@ -1,0 +1,113 @@
+Artificial Intelligence enables machines to perform human-like reasoning tasks.
+Machine Learning is a subset of Artificial Intelligence focused on data-driven learning.
+Deep Learning uses neural networks with multiple layers.
+OpenAI develops ChatGPT for conversational AI applications.
+ChatGPT uses transformer-based language models.
+Transformers were introduced by Google Research.
+Google DeepMind focuses on artificial general intelligence research.
+Google develops the Gemini AI model.
+Gemini supports multimodal reasoning across text and images.
+Microsoft integrates AI into Azure cloud services.
+Azure OpenAI Service provides enterprise AI deployment.
+Microsoft develops Microsoft Copilot productivity assistants.
+GitHub Copilot assists developers with AI-powered code generation.
+GitHub is owned by Microsoft.
+Anthropic develops the Claude AI assistant.
+Claude AI emphasizes AI safety and alignment research.
+Meta AI develops Llama language models.
+Llama models support local AI deployment.
+Meta AI researches open-source artificial intelligence systems.
+Amazon Web Services provides cloud-based AI infrastructure.
+Amazon Bedrock enables generative AI application development.
+Amazon SageMaker supports machine learning model training.
+NVIDIA produces GPUs optimized for AI computation.
+CUDA accelerates deep learning workloads on NVIDIA hardware.
+Hugging Face hosts open-source AI models.
+Hugging Face develops the Transformers library.
+Transformers library simplifies pretrained model usage.
+Stability AI develops Stable Diffusion models.
+Stable Diffusion generates images from text prompts.
+Midjourney creates artistic AI-generated images.
+Runway ML provides AI-powered video editing tools.
+Perplexity AI combines search engines with conversational AI.
+Notion AI helps users summarize documents automatically.
+Grammarly improves writing using artificial intelligence.
+Speech recognition converts spoken language into text.
+Text-to-speech converts written text into audio.
+Computer vision allows machines to understand visual data.
+Reinforcement learning trains agents using rewards.
+Supervised learning uses labeled training datasets.
+Unsupervised learning identifies patterns without labels.
+Neural networks simulate interconnected brain neurons.
+Large Language Models process natural language inputs.
+Prompt engineering improves AI model responses.
+Vector databases store embedding representations.
+Embeddings represent semantic meaning numerically.
+FAISS enables similarity search for embeddings.
+Chroma is a lightweight vector database.
+Pinecone provides managed vector database services.
+Retrieval-Augmented Generation improves AI accuracy.
+RAG combines retrieval systems with language models.
+Neo4j is a graph database management system.
+Graph databases store relationships between entities.
+Cypher is Neo4j’s query language.
+Knowledge graphs represent structured information networks.
+GraphRAG combines graph databases with language models.
+Ollama runs large language models locally.
+Phi-3 Mini is a lightweight language model.
+Local LLMs enable private AI deployments.
+AI ethics focuses on fairness and transparency.
+Bias mitigation reduces unfair AI outcomes.
+AI governance ensures responsible AI usage.
+Explainable AI improves model interpretability.
+Healthcare uses AI for medical image analysis.
+Finance uses AI for fraud detection.
+Retail uses recommendation systems powered by AI.
+Education platforms use AI tutors for personalized learning.
+Autonomous vehicles rely on computer vision systems.
+Robotics integrates AI with physical machines.
+Edge AI performs computation near data sources.
+Cloud computing provides scalable AI infrastructure.
+Data labeling improves supervised learning accuracy.
+Model fine-tuning adapts pretrained models to tasks.
+Transfer learning reuses learned knowledge.
+Tokenization converts text into model-readable tokens.
+Attention mechanisms improve contextual understanding.
+Multimodal AI processes text, images, and audio together.
+AI agents perform autonomous decision-making tasks.
+LangChain helps developers build LLM applications.
+LlamaIndex connects LLMs with external data.
+Semantic search retrieves meaning-based results.
+Search engines use ranking algorithms.
+Recommendation systems predict user preferences.
+Knowledge retrieval enhances chatbot accuracy.
+Human-AI collaboration improves productivity.
+AI copilots assist professionals in workflows.
+Synthetic data augments training datasets.
+Federated learning enables decentralized training.
+Privacy-preserving AI protects user data.
+Zero-shot learning enables unseen task performance.
+Few-shot learning requires minimal examples.
+Foundation models support multiple downstream tasks.
+Model evaluation measures AI performance.
+Benchmark datasets compare AI systems.
+Data pipelines automate machine learning workflows.
+MLOps manages machine learning lifecycle operations.
+Continuous training updates AI models regularly.
+Monitoring systems detect model drift.
+AI startups innovate automation solutions.
+Enterprise AI improves business decision-making.
+Digital assistants automate everyday tasks.
+Smart devices integrate AI capabilities.
+Natural language processing enables text understanding.
+Sentiment analysis detects emotional tone in text.
+Named entity recognition identifies entities in text.
+Question answering systems retrieve precise information.
+Document summarization condenses large texts.
+Code generation models assist software engineers.
+AI research advances toward general intelligence.
+AI safety research prevents harmful outcomes.
+Responsible AI promotes ethical technology development.
+Human feedback improves AI alignment.
+Open-source AI accelerates innovation.
+AI ecosystems connect tools and platforms together.
