@@ -16,7 +16,19 @@ Before running the applications, ensure you have:
 * **Neo4j** (Desktop or Docker) running (only required for GraphRAG).
 
 ---
+## 📚 What You'll Learn
 
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Embeddings
+- Semantic Search
+- Knowledge Graphs
+- Neo4j
+- LangChain
+- Ollama
+- Google Gemini
+
+  ---
 ## 🚀 1. Interactive Doc RAG (Streamlit + Ollama)
 
 A highly visual, web-based UI that allows you to upload any research PDF and chat with it in real-time.
