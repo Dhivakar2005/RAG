@@ -6,8 +6,6 @@ Welcome to the **RAG (Retrieval-Augmented Generation)** repository. This workspa
 2. **⚡ ChromaDB + Gemini RAG (`rag_with_chromadb.py`)**: A persistent command-line RAG application powered by ChromaDB and Google's Gemini API (`gemini-2.5-flash`).
 3. **🕸️ GraphRAG Local (`graph_rag/`)**: An offline knowledge graph-based RAG pipeline using Neo4j and Ollama (`phi3:mini`).
 
----
-
 ## 🛠️ Global Prerequisites
 
 Before running the applications, ensure you have:
@@ -15,8 +13,7 @@ Before running the applications, ensure you have:
 * **Ollama** installed and running (for local models).
 * **Neo4j** (Desktop or Docker) running (only required for GraphRAG).
 
----
-## 📚 What You'll Learn
+## 📖 What You'll Learn
 
 - Retrieval-Augmented Generation (RAG)
 - Vector Databases
@@ -28,7 +25,6 @@ Before running the applications, ensure you have:
 - Ollama
 - Google Gemini
 
-  ---
 ## 🚀 1. Interactive Doc RAG (Streamlit + Ollama)
 
 A highly visual, web-based UI that allows you to upload any research PDF and chat with it in real-time.
