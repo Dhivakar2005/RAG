@@ -1,23 +1,31 @@
-# 🧠 Multi-Architecture RAG Systems
+#  Multi-Architecture RAG Systems
 
 Welcome to the **RAG (Retrieval-Augmented Generation)** repository. This workspace contains three distinct implementations of Retrieval-Augmented Generation, showcasing different databases, LLM providers, and data architectures:
 
-1. **🤖 Interactive Doc RAG (`rag.py`)**: A Streamlit-based UI that processes uploaded PDFs locally using Ollama (`llama3`) and an in-memory vector store.
-2. **⚡ ChromaDB + Gemini RAG (`rag_with_chromadb.py`)**: A persistent command-line RAG application powered by ChromaDB and Google's Gemini API (`gemini-2.5-flash`).
-3. **🕸️ GraphRAG Local (`graph_rag/`)**: An offline knowledge graph-based RAG pipeline using Neo4j and Ollama (`phi3:mini`).
+1. ** Interactive Doc RAG (`rag.py`)**: A Streamlit-based UI that processes uploaded PDFs locally using Ollama (`llama3`) and an in-memory vector store.
+2. ** ChromaDB + Gemini RAG (`rag_with_chromadb.py`)**: A persistent command-line RAG application powered by ChromaDB and Google's Gemini API (`gemini-2.5-flash`).
+3. ** GraphRAG Local (`graph_rag/`)**: An offline knowledge graph-based RAG pipeline using Neo4j and Ollama (`phi3:mini`).
 
----
-
-## 🛠️ Global Prerequisites
+##  Global Prerequisites
 
 Before running the applications, ensure you have:
 * **Python 3.9+** installed.
 * **Ollama** installed and running (for local models).
 * **Neo4j** (Desktop or Docker) running (only required for GraphRAG).
 
----
+##  What You'll Learn
 
-## 🚀 1. Interactive Doc RAG (Streamlit + Ollama)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Embeddings
+- Semantic Search
+- Knowledge Graphs
+- Neo4j
+- LangChain
+- Ollama
+- Google Gemini
+
+## 1. Interactive Doc RAG (Streamlit + Ollama)
 
 A highly visual, web-based UI that allows you to upload any research PDF and chat with it in real-time.
 
@@ -93,7 +101,7 @@ An advanced, offline Graph-based RAG pipeline that builds structured entity-rela
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```directory
 ├── chroma/               # Local ChromaDB persistent storage
